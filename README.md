@@ -1,4 +1,4 @@
-# 🤖 AI-Powered QA Agent Team
+# 🤖 AI-Powered QA Automation Agent Team
 
 Turn manual test cases into automated Playwright scripts and get a final Pass/Fail report—all with a single click.
 
