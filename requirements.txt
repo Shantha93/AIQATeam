@@ -1,0 +1,6 @@
+langgraph 
+langchain[openai]
+playwright>=1.42
+pytest
+pytest-playwright
+streamlit
