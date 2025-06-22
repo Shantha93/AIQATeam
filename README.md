@@ -5,7 +5,7 @@ Turn manual test cases into automated Playwright scripts and get a final Pass/Fa
  
 ## 📸 Demo / Screenshot
 
-![App Screenshot](https://github.com/Shantha93/AIQATeam/blob/main/AIQATeam.mp4)
+![App Screenshot](https://github.com/Shantha93/AIQATeam/blob/main/AIQATeam.gif)
 
 ---
 
